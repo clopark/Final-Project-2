@@ -1,0 +1,79 @@
+{
+  "question": [
+    "Q1. What shape is the scar on Harry Potter's head?",
+    "Q2. What is not a name of a Wizarding School?",
+    "Q3. In what book do we meet Sirius Black?",
+    "Q4. Who is responsible for the death of Dumbledore?",
+    "Q5. If the seeker catches this, their team wins the Quiditch game.",
+    "Q6. Who is Harry Potter's godfather?",
+    "Q7. Which spell protects from Dementors?",
+    "Q8. Who is the Half-Blood Prince?",
+    "Q9. Who can see through the back of his own head?",
+    "Q10. What is the last Horcrux that is destroyed?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    4,
+    1,
+    3,
+    3,
+    4,
+    1
+  ],
+  "options": [
+
+    ["Lightning Bolt",
+      "Backslash",
+      "Square",
+      "Skull"
+    ],
+    ["Hogwarts",
+      "Dormamu",
+      "Uagadou",
+      "Beuxbatons"
+    ],
+    ["Goblet of Fire",
+      "Deathly Hallows",
+      "Prisoner of Azkaban",
+      "Sorcerer's Stone"
+    ],
+    ["Bellatrix Estrange",
+      "Severus Snape",
+      "Harry Potter",
+      "Voldemort"
+    ],
+    ["Silver Snitch",
+      "Another player",
+      "A cold",
+      "Golden Snitch"
+    ],
+    ["Sirius Black",
+      "Remus Lupin",
+      "James Potter",
+      "Arthur Weasley"
+    ],
+    ["Avada Kedavra",
+      "Accio",
+      "Expecto Patronum",
+      "Wingardium Leviosa"
+    ],
+    ["Ron Weasley",
+      "Albus Dumbeldore",
+      "Severus Snape",
+      "Draco Malfoy"
+    ],
+    ["Neville Longbottom",
+      "Voldemort",
+      "Lucius Malfoy",
+      "Alastor ‘Mad-Eye’ Moody"
+    ],
+    ["Salazar Slytherin's Locket",
+      "Rowena Ravenclaw's Diadem",
+      "Tom Riddle's Diary",
+      "Nagini The Snake "
+    ]
+  ]
+}
